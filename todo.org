@@ -1,0 +1,6 @@
+* DONE parse nzb files
+* DONE nntp client
+* DONE directory watcher for nzb queue
+* TODO yenc decoder
+* TODO download manager thing
+* TODO interrupted downloads shutdown cleanly
